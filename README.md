@@ -6,7 +6,7 @@
 
 Authors: Benjamin Pope, Tim White
 
-This repo links to the main halo photometry pipeline at github.com/hvidy/halophot, maintained by Tim White. 
+This repo links to the main halo photometry pipeline [halophot](github.com/hvidy/), maintained by Tim White. 
 
 Using the notebooks in this repo, you can implement a halo + k2sc pipeline:
 
