@@ -15,3 +15,5 @@ Using the notebooks in this repo, you can implement a halo + k2sc pipeline:
 - make_scripts.ipynb - this will tell you the commands to run halo and k2sc. You should have a directory structure with folders raw/, reduced/, reduced/dummy/ and reduced/final.
 
 - inspect.ipynb - just download one MAST lightcurve and inspect it to determine where to put splits. 
+
+- halo_copy_c14.py - copy the data from halo outputs into the MAST lightcurves. A bit of a laborious workaround.
